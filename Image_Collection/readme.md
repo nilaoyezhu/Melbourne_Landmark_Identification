@@ -1,6 +1,6 @@
 # Melbourne_Landmark_Identification
 
-Please install iCrawler before using this program, by running pip install icrawler or conda install -c hellock icrawler from Terminal.
+Please install iCrawler before using this program, by running ‘pip install icrawler‘ or ’conda install -c hellock icrawler‘ from Terminal.
 
 Execute this Python program to crawl images from Internet.
 
