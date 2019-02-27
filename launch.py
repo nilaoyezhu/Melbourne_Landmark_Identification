@@ -1,6 +1,11 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-#
+# COMP90055 Computing Project
+# Supervisor: Prof. Richard Sinnott
+# 874204 Liangmu ZHU
+# @ Master of Information Technology
+# Contact: liangmuz@student.unimelb.edu.au
+
 import os, sys
 from PyQt4.QtGui import *
 filename = "test_photos/9929959995_6e31b94d8b_o.jpg"
