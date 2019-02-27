@@ -1,0 +1,6 @@
+
+st pauls cathedral (score=0.99577)
+st patricks cathedral (score=0.00423)
+royal exhibition building (score=0.00000)
+shrine of rememberance (score=0.00000)
+state library victoria (score=0.00000)
