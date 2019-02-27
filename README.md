@@ -8,4 +8,4 @@ Configuration Steps:
 4. Upload an image to the program by clicking 'Select a photo'.
 5. When the photo is loaded in the window, click 'Which landmark' to detect the landmark.
 
-The model and ideas are inspired by TensorFlow For Poet from Google codelabs, retrieved from https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/.
+The model and ideas are inspired by `TensorFlow For Poet` from Google codelabs, retrieved from https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/. The model was pretrained with Imagenet Large Visual Recognition Challenge dataset.
