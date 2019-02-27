@@ -1,0 +1,5 @@
+eureka tower 1
+melbourne cricket ground 1
+melbourne star 1
+royal exhibition building 1
+shrine of rememberance 1
