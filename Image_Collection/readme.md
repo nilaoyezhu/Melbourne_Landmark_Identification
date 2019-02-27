@@ -6,4 +6,4 @@ Execute this Python program to crawl images from Internet.
 
 Please add your keywords as text lines in landmarks.txt to let iCrawler search corresponding images.
 
-Thanks to Kai chen, referenced from https://icrawler.readthedocs.io/en/latest/
+Thanks to Kai Chen, referenced from https://icrawler.readthedocs.io/en/latest/
